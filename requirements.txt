@@ -1,0 +1,6 @@
+beautifulsoup4==4.3.2
+mechanize==0.2.5
+pyPdf==1.13
+pygeoip==0.3.2
+python-nmap==0.3.4
+wsgiref==0.1.2
